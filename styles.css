@@ -1,0 +1,87 @@
+
+body {
+    background-color: #CCC4C1;
+    color: #4C5970;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color:#ebeced;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+    color:#3D3D3B;
+    margin-top: 1em;
+    margin-bottom: .25em;
+}
+h2 {
+    text-align: center;
+    font-size: 32pt;
+    color:#3D3D3B;
+    margin-top: 3em;
+
+}
+
+p {
+    padding: 2em;
+    text-align: justify;
+    font-size: 18pt;
+}
+
+.center {
+    padding: 2em;
+    text-align: center;
+    font-size:18pt;
+}
+
+nav ul li{
+    display:inline-block;
+    padding-left: 3em;
+    padding-right: 3em;
+    font-size:15pt;
+
+
+}
+
+
+nav {
+    text-align: center;
+    margin-right: 2em;
+}
+
+.misc{
+    display:box;
+    font-size: 15pt;
+    margin-left: 20em;
+    list-style-type: circle;
+
+}
+figure{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    width: 50%
+}   
+
+#scalableLogo {
+    width:50%;
+    height:auto;
+}
+
+#engineLogo {
+    width: 40%;
+    height:auto;
+}
+
+#realtorLogo{
+    width: 60%;
+    height:auto;
+}
+
+#sonyLogo{
+    width: 50%;
+    height:auto;
+}
